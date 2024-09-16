@@ -1,0 +1,1121 @@
+@media only screen and (max-width:1366px) {
+
+    .call a {
+        font-size: 30px;
+    }
+
+    .call a i {
+        width: 50px;
+        height: 50px;
+        font-size: 18px;
+    }
+
+    .logo a img {
+        width: 80%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .banner-main {
+        padding: 140px 0;
+    }
+
+    .banner-text h1 {
+        font-size: 45px;
+    }
+
+    .banner-text h2 {
+        font-size: 30px;
+    }
+
+    .banner-text h1 span {
+        padding-right: 0;
+    }
+
+    .banner-text p {
+        font-size: 18px;
+        color: #ffffff;
+    }
+
+    .sec-heading h2 {
+        font-size: 45px;
+    }
+
+    .sec-heading h2 img {
+        width: 24%;
+    }
+
+    .sec-heading h3 {
+        font-size: 45px;
+        font-weight: 800;
+    }
+
+    .red-border-text .photo img {
+        padding-top: 20px;
+    }
+
+    .red-border-text p {
+        font-size: 28px;
+        top: 35px;
+    }
+
+    .the-final-countdown p {
+        font-size: 35px;
+    }
+
+    .banner .form-area form {
+        padding: 20px;
+    }
+
+    .banner .form-area .name-input {
+        padding: 15px;
+        font-size: 18px;
+    }
+
+    .submit-main button {
+        width: 100%;
+        font-size: 26px;
+        padding: 5px 0;
+    }
+
+    .arrow-btn {
+        width: 40px;
+        height: 40px;
+    }
+
+    .submit-main button img {
+        width: 45%;
+    }
+
+    .banner .submit-main button {
+        margin-top: 33px;
+        padding-top: 10px;
+        padding-left: 40px;
+    }
+
+
+    .benefits .text p {
+        font-size: 20px;
+    }
+
+    .text .check-photo img {
+        width: 100%;
+    }
+
+    .benefits-main {
+        background: #0b0b0b85;
+        padding: 15px 0;
+    }
+
+
+
+    .kam-text h2 {
+        font-size: 45px;
+    }
+
+    .takat {
+        position: relative;
+    }
+
+    .takat p {
+        font-size: 13px;
+        top: 10px;
+        left: 11%;
+        transform: translateX(0);
+    }
+
+    .takat .photo img {
+        width: 90%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .kam-text h3 {
+        font-size: 35px;
+    }
+
+    .kam-text h4 {
+        font-size: 35px;
+    }
+
+    .paragraph {
+        font-size: 16px;
+    }
+
+    .kam-main {
+        padding-bottom: 130px;
+    }
+
+    .kam-main img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .arrow-btn img {
+        width: 100%;
+        padding: 9px;
+    }
+
+    .button .btn-main {
+        padding-left: 50px;
+        padding-top: 10px;
+        padding-bottom: 5px;
+        font-size: 30px;
+    }
+
+    .button .arrow-btn {
+        margin-left: 10px;
+    }
+
+
+    .doctor-info .details p {
+        font-size: 16px;
+    }
+
+    .card-area .card {
+        padding: 25px;
+    }
+
+    .card-photo img {
+        padding: 0 73px;
+    }
+
+    .card .card-text h4 {
+        font-size: 26px;
+    }
+
+    .card .card-text p {
+        font-size: 16px;
+    }
+
+
+    .formula-main {
+        padding: 65px 0 320px;
+    }
+
+    .card-area {
+        position: absolute;
+        bottom: -615px;
+    }
+
+    .size-chart {
+        padding: 20px 138px 10px;
+    }
+
+    .size-info .text span {
+        font-size: 16px;
+    }
+
+    .size-info .text p {
+        font-size: 22px;
+        line-height: 20px;
+    }
+
+
+    .ratings-head img {
+        width: 25%;
+    }
+
+    .ratings-head p {
+        font-size: 45px;
+    }
+
+    .slide-text p {
+        font-size: 18px;
+        padding-bottom: 15px;
+    }
+
+    .five-star {
+        width: 50%;
+    }
+
+    .five-star img {
+        width: 100%;
+    }
+
+    .name span {
+        font-size: 20px;
+    }
+
+    .slide-content {
+        padding: 30px;
+    }
+
+    .prev {
+        font-size: 25px;
+    }
+
+    .nex {
+        font-size: 25px;
+    }
+
+    .use-main {
+        background-position: center center;
+    }
+
+    .use-photo {
+        padding: 45px;
+        padding-bottom: 20px;
+    }
+
+    .use-info .use-text h4 {
+        font-size: 26px;
+    }
+
+    .use-info .use-text p {
+        font-size: 18px;
+    }
+
+    .use-main .button .btn-main {
+        font-size: 26px;
+    }
+
+    .use-info {
+        padding-bottom: 40px;
+    }
+
+}
+
+@media only screen and (max-width:1199px) {}
+
+@media only screen and (max-width:991px) {}
+
+@media only screen and (max-width:767px) {}
+
+@media only screen and (max-width:575px) {
+
+    .header-main {
+        padding-top: 5px;
+    }
+
+    .logo {
+        width: 25%;
+    }
+
+    .logo a img {
+        width: 100%;
+    }
+
+    .call {
+        width: 60%;
+    }
+
+    .call a i {
+        width: unset;
+        height: 30px;
+        font-size: 12px;
+    }
+
+    .call a {
+        font-size: 20px;
+    }
+
+    .nz-phone-ph-img-circle {
+        width: 30px;
+        height: 30px;
+        left: 25px;
+    }
+    .round{
+        width: 35px;
+        height: 35px;
+        right: 22px;
+        border: 3px solid #f97d7b;
+    }
+    .arrow{
+        width: 12px;
+        height: 12px;
+    }
+    #cta .arrow {
+        top: 9px;
+        left: 24%;
+    }
+    .segunda {
+        margin-left: 5px;
+    }
+    .button .round {
+        right: -5px;
+        width: 30px;
+        height: 30px;
+        top: -2px;
+    }
+    .button .arrow {
+        width: 10px;
+        height: 10px;
+    }
+    .button #cta  .arrow {
+        top: 7px;
+        left: 23%;
+    }    
+
+
+    .banner-main {
+        background-position: center;
+        padding: 100px 0 140px;
+    }
+
+    .banner {
+        justify-content: center;
+    }
+
+    .banner-text {
+        width: 100%;
+        text-align: center;
+    }
+
+    .banner-text h1 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+
+    .banner-text h2 {
+        font-size: 24px;
+    }
+
+    .banner-text p {
+        font-size: 14px;
+        color: #ffffff;
+    }
+    .banner .round {
+        top: 17%;
+    }
+
+    .red-border-text p {
+        font-size: 23px;
+        top: 20px;
+        left: 11px;
+    }
+
+    .red-border-text .photo img {
+        padding-top: 10px;
+    }
+
+
+
+    .timer-area {
+        width: 77%;
+        padding-top: 20px;
+    }
+
+    .the-final-countdown p {
+        font-size: 30px;
+        padding: 5px 0;
+    }
+
+    .banner .form-area .name-input {
+        font-size: 14px;
+        padding: 8px;
+    }
+
+    .banner .form-area form {
+        padding: 25px 15px;
+    }
+
+    .submit-main button {
+        width: 100%;
+        font-size: 14px;
+        padding: 5px 0;
+    }
+
+    .banner .submit-main button {
+        margin-top: 0;
+        font-size: 24px;
+        padding: 13px 0;
+        padding-right: 40px;
+    }
+
+    .banner .submit-main button:hover {
+        padding-left: 15px;
+    }
+    .banner .submit-main button:hover .round{
+        right: 20px;
+    }
+
+    .form-area form {
+        border: 1px solid #e42828;
+    }
+
+    .banner .arrow-btn {
+        width: 35px;
+        height: 35px;
+        border: 3px solid #f97d7b;
+    }
+
+    .arrow-btn {
+        width: 30px;
+        height: 30px;
+        border: 3px solid #f97d7b;
+    }
+
+    .submit-main {
+        margin-top: 25px;
+    }
+
+    .submit-main .arrow-btn {
+        transition: all 0.5s;
+        margin: 0;
+        margin-left: 10px;
+    }
+
+    .submit-main button img {
+        width: 100%;
+        padding: 7px;
+    }
+
+    .banner .button-bg {
+        width: 100%;
+        margin: 0 auto;
+    }
+
+
+
+    .benefits-main {
+        padding: 5px 0;
+    }
+
+    .benefits {
+        justify-content: center;
+    }
+
+    .benefits .text {
+        width: 30%;
+        padding-bottom: 5px;
+    }
+
+    .text .check-photo {
+        width: 20%;
+        padding-top: 0;
+        padding-right: 4px;
+    }
+
+    .benefits .text p {
+        font-size: 12px;
+        padding-left: 5px;
+    }
+
+
+    .banner-bottle {
+        width: 45%;
+        position: absolute;
+        left: unset;
+        top: unset;
+        right: 0;
+        bottom: 94px;
+    }
+
+
+
+    .kam-main {
+        padding-bottom: 110px;
+        padding-top: 20px;
+    }
+
+    .kam-text h2 {
+        font-size: 24px;
+        padding-bottom: 5px;
+    }
+
+    .paragraph {
+        font-size: 14px;
+        padding: 15px 42px 0;
+    }
+
+    .paragraph span {
+        display: inline;
+    }
+
+    .kam-text h3 {
+        font-size: 18px;
+        padding-top: 15px;
+    }
+
+    .kam-text h4 {
+        font-size: 18px;
+    }
+
+    .service {
+        padding-bottom: 20px;
+    }
+
+    .service ul {
+        width: 100%;
+    }
+
+    .service img {
+        padding: 13px;
+    }
+
+    .service-photo {
+        width: 24%;
+    }
+
+    .service-photo2 img {
+        padding: 0px;
+    }
+
+    .kam-image {
+        position: absolute;
+        bottom: -150px;
+        left: 0;
+        transform: translateX(0);
+    }
+
+    .kam-image .button {
+        margin-top: 10px;
+    }
+    .button{
+        width: 55%;
+    }
+    .button-bg {
+        margin: 0 auto;
+    }
+
+    .button-content {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .button .btn-main {
+        padding: 0;
+        font-size: 20px;
+        padding-right: 35px;
+        white-space: nowrap;
+    }
+
+    .arrow-btn img {
+        padding: 6px;
+    }
+
+
+
+    .doctor-main {
+        padding-top: 200px;
+        padding-bottom: 0;
+    }
+
+    .sec-heading a {
+        font-size: 24px;
+    }
+    .sec-heading h2 {
+        font-size: 24px;
+        font-weight: 800;
+    }
+
+    .sec-heading a img {
+        width: 25%;
+    }
+
+    .sec-heading h3 {
+        font-size: 24px;
+    }
+
+    .doctor-info1 {
+        display: none;
+    }
+    .doctor-info1 {
+        display: none;
+    }
+    .doctor-info22 {
+        display: none;
+    }
+    .doctor-info3{
+        display: block;
+       
+    }
+    .doctor-info4{
+        display: block;
+        padding-bottom: 30px;
+        padding-top: 0;
+    }
+
+    .doctor-info2 {
+        padding-bottom: 15px;
+        /* border-bottom: 2px dotted #fff; */
+    }
+
+    .doctor-info .details {
+        padding-right: 10px;
+        padding-top: 35px;
+    }
+
+    .doctor-info .details p {
+        font-size: 14px;
+    }
+
+    .doctor-row2 .photo {
+        padding: 0;
+    }
+
+    .doctor-info .details p {
+        line-height: 27px;
+        padding: 0 0 20px 5px;
+    }
+
+
+
+    .formula-main {
+        padding: 50px 0;
+    }
+
+    .card-area {
+        position: unset;
+    }
+
+    .sec-heading {
+        padding-bottom: 30px;
+    }
+
+    .card-area-row {
+        display: flex;
+        justify-content: center;
+    }
+
+    .card-col-area {
+        margin-bottom: 20px;
+    }
+
+    .card-area .card {
+        padding: 20px;
+    }
+
+    .card-photo img {
+        padding: 0 55px;
+    }
+
+    .card .card-text h4 {
+        font-size: 20px;
+    }
+
+    .card .card-text p {
+        font-size: 14px;
+        line-height: 30px;
+    }
+
+    .card-area .button {
+        margin-top: 20px;
+    }
+
+
+
+
+    .chart-main {
+        padding: 50px 0;
+    }
+
+    .size-chart {
+        padding: 0px;
+    }
+
+    .size-info {
+        padding: 0 40px;
+    }
+
+    .size-info .text span {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .size-info .text p {
+        font-size: 17px;
+        line-height: 23px;
+    }
+
+
+    .ratings-main {
+        padding: 50px 0 80px;
+    }
+
+    .ratings-head img {
+        width: 40%;
+    }
+
+    .ratings-head p {
+        font-size: 24px;
+    }
+
+    .ratings-head img {
+        width: 40%;
+    }
+
+    .ratings-slide-main {
+        margin: 0;
+    }
+
+    .slide-content {
+        padding: 25px;
+    }
+
+    .slide-text p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .five-star {
+        width: 35%;
+    }
+
+    .prev {
+        position: absolute;
+        top: unset;
+        bottom: -70px;
+        left: 38%;
+        font-size: 20px;
+    }
+
+    .nex {
+        position: absolute;
+        top: unset;
+        bottom: -70px;
+        right: 38%;
+        font-size: 20px;
+    }
+
+    .name span {
+        font-size: 18px;
+    }
+
+
+
+
+    .use-main {
+        padding: 50px 0 80px;
+        background-position: 60%;
+    }
+
+    .use .sec-heading {
+        padding-bottom: 0;
+    }
+
+    .use-info {
+        padding-top: 0;
+    }
+
+    .use-photo {
+        padding: 40px;
+        padding-bottom: 20px;
+    }
+
+    .use-info .use-text h4 {
+        font-size: 20px;
+        padding-bottom: 15px;
+    }
+
+    .use-info .use-text p {
+        font-size: 14px;
+    }
+
+    .use-main .button .btn-main {
+        font-size: 18px;
+    }
+
+
+
+
+
+    .customer-main {
+        padding: 50px 0 80px;
+    }
+
+    .customer .sec-heading h2 {
+        padding-bottom: 10px;
+    }
+
+    .customer .sec-heading {
+        padding-bottom: 30px;
+    }
+
+    .customer-number p {
+        font-size: 20px;
+        top: 6px;
+    }
+
+    .customer-number .photo {
+        width: 45%;
+        margin: 0 auto;
+    }
+
+    .customer-number .photo img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .review-slider-main {
+        margin: 0;
+    }
+
+    .review {
+        padding: 0 15px 15px;
+    }
+
+    .profile-pic {
+        width: 35%;
+        margin: 0 auto;
+    }
+
+    .profile-pic img {
+        width: 100%;
+    }
+
+    .prof-text p {
+        font-size: 14px;
+        line-height: 25px;
+        padding-bottom: 15px;
+    }
+
+    .prof-name {
+        padding-top: 15px;
+    }
+
+    .prof-name p {
+        font-size: 18px;
+    }
+
+    .prof-name span {
+        font-size: 18px;
+    }
+
+    .prof-name::before {
+        width: 280px;
+    }
+
+    .quote {
+        width: 15%;
+    }
+
+    .quote2 {
+        width: 15%;
+    }
+
+    .slick-slide img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .customer .slick-dots li button {
+        width: 10px;
+        height: 10px;
+    }
+
+    .customer .slick-dots .slick-active button {
+        padding: 3px;
+    }
+
+    .customer .slick-dots {
+        padding-top: 35px;
+    }
+    .customer .slick-dots li {
+        margin-right: 12px;
+    }
+
+
+
+
+
+
+    .question-main {
+        padding: 50px 0 80px;
+    }
+
+    .set>a {
+        padding: 5px;
+        font-size: 16px;
+        display: flex;
+        align-items: center;
+    }
+
+    .set>a i {
+        float: right;
+        margin-left: auto;
+        font-size: 14px;
+        padding-left: 50px;
+    }
+
+    .content p {
+        font-size: 14px;
+    }
+
+
+    .change-main {
+        padding: 50px 0 50px;
+    }
+
+    .change-row {
+        justify-content: center;
+    }
+
+    .change-card-area {
+        padding-top: 0px;
+    }
+
+    .change-col {
+        margin-bottom: 20px;
+    }
+
+    .change-card-area .card .profile {
+        width: 100%;
+        height: 200px;
+    }
+
+    .card .change-text {
+        padding: 15px;
+    }
+
+    .card .change-text span {
+        font-size: 12px;
+    }
+
+    .card .change-text h4 {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+
+    .card .change-text h4 span {
+        font-size: 16px;
+        font-weight: 600;
+        color: #ffffff;
+        padding-top: 5px;
+    }
+
+    .card .change-text p {
+        font-size: 14px;
+    }
+
+    .card .change-button {
+        padding: 15px 25px 15px 5px;
+    }
+
+    .card .change-button a {
+        font-size: 15px;
+    }
+
+    .card .change-button a img {
+        width: 8%;
+    }
+
+
+    .offer-main {
+        padding: 50px 0 50px;
+        background-position: -50px;
+    }
+
+    .offer .sec-heading h2 {
+        font-size: 21px;
+    }
+
+    .offer .sec-heading a {
+        font-size: 22px;
+        padding-top: 10px;
+    }
+    .offer .sec-heading a img {
+        width: 23%;
+    }
+    .sec-heading h3 {
+        font-size: 21px;
+        padding-top: 10px;
+    }
+    .offer .sec-heading h3 {
+        font-size: 21px;
+        padding-top: 10px;
+    }
+
+    .bottle-area {
+        padding-left: 0;
+        justify-content: center;
+    }
+
+    .bottle-area .bottle {
+        width: 100%;
+    }
+
+    .bottle-area .bottle p {
+        font-size: 14px;
+        padding: 0 15px 20px;
+    }
+
+    .bottle-area .timer-area {
+        width: 70%;
+        position: unset;
+    }
+
+    .offer .form-area form {
+        padding: 20px 15px;
+    }
+
+    .form-area .name-input {
+        font-size: 12px;
+        padding: 5px;
+    }
+
+    .offer .submit-main button {
+        margin-top: 0;
+        font-size: 20px;
+        padding-right: 35px;
+    }
+
+    .offer .service {
+        padding-top: 30px;
+    }
+
+    .offer .button-bg {
+        width: 100%;
+        margin: 0 auto;
+    }
+    .offer .round {
+        top: 2%;
+    }
+    
+    
+
+
+
+    .footer-main {
+        padding: 20px 0;
+    }
+
+    .footer .social-media {
+        padding-bottom: 5px;
+    }
+
+    .footer .footer-text p {
+        padding-bottom: 10px;
+        font-size: 12px;
+    }
+
+    .footer .footer-text span {
+        font-size: 12px;
+    }
+
+    .footer-logo {
+        width: 25%;
+        margin: 0 auto;
+    }
+    .social-media ul{
+        padding-left: 25px;
+    }
+    .social-media ul li i{
+        font-size: 14px;
+
+    }
+
+    .payment {
+        padding-top: 20px;
+    }
+
+    .payment .heading p {
+        font-size: 14px;
+    }
+
+    .payment ul li a img {
+        width: 80%;
+    }
+
+    .payment ul li {
+        width: 25%;
+    }
+
+}
+
+@media only screen and (max-width:480px) {}
